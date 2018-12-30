@@ -14,8 +14,11 @@ Run app by command
 $ python3 manage.py runserver
 
 First log in to your account by http://127.0.0.1:8000/admin/login/?next=/admin/
-Create your own blog and save it.
+
+
+ Create your own blog and save it.
+
 Now go to link http://127.0.0.1:8000/
-this will direct you to My Blog app,in blog section you will see your blog .
+ this will direct you to My Blog app,in blog section you will see your blog .
 
 
