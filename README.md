@@ -1,5 +1,8 @@
 # Mydjango_app
 clone this repo to your directory.
+
+
+
 Steps for writting blog in Mydjango_app
 If you are new user of django admin then first create account. In root of Blog_app run this command on terminal/command prompt
 $ python3 manage.py createsuperuser
