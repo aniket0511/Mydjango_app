@@ -1,7 +1,7 @@
 # Mydjango_app
 clone this repo to your directory.
 
-First of all install all requirements given in requirements.txt by command $ pip3 install (required module)
+First of all install all the requirements given in requirements.txt by command $ pip3 install (required module)
 
 
 Steps for writting blog in Mydjango_app
