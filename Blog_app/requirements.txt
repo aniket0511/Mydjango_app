@@ -11,7 +11,7 @@ command-not-found==0.3
 cryptography>=2.3
 defer==1.0.6
 dj-database-url==0.5.0
-Django==2.0.6
+Django==2.0.11
 ez-setup==0.9
 fb==0.4.0
 fbchat==1.4.2
